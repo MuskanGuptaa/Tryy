@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "axion": "^0.1.0",
+    "cookie-parser": "^1.4.6",
+    "jsonwebtoken": "^9.0.0",
+    "licenses": "^0.0.20",
+    "react-scripts": "^5.0.1"
+  }
+}
